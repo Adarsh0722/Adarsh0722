@@ -10,9 +10,6 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 Let’s connect, learn, and grow together—one repo at a time.
 You bring the snacks, I’ll bring the code 🍪💻
 
-🌐 Socials:Instagram adarsh.0322
-LinkedIn adarsh0322
-
 💻 Tech Stack:
 Python  MySQL MicrosoftSQLServer Canva Adobe Premiere Pro Matplotlib NumPy Pandas Plotly Power Bi HTML5
 -->
